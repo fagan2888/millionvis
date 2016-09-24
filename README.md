@@ -7,7 +7,7 @@ a large number of items using several popular 2D visualization
 techniques.
 
 MillionVis is not a product but a research project.  The source code
-is available under the GNU General Public License to promote sharing
+is available under the MIT License to promote sharing
 and enhancing the program.
 
 For more information, see the millionvis page at https://github.com/jdfekete/millionvis
