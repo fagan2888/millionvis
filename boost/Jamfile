@@ -1,0 +1,8 @@
+SubDir TOP boost ;
+
+SOURCES =
+	directory
+	;
+
+Library libtree : $(SOURCES).cpp ;
+
